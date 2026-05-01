@@ -120,7 +120,7 @@ Or run it from Terminal:
 - The `src` folder contains the main Java source code.
 - The `bin` folder contains compiled `.class` files.
 
-##Authors
+## Authors
 
 - Ghala Alghamdi
 - Hiba Amanulla
