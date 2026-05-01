@@ -126,5 +126,5 @@ Or run it from Terminal:
 - Hiba Amanulla
 - Effat University
 - Computer Science Department
-Course: CS2132 – Machine Learning
-Instructor: Dr. Fidaa Abed
+- Course: CS2132 – Object-Oriented Programming
+- Instructor: Dr. Fidaa Abed
