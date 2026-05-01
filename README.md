@@ -55,6 +55,10 @@ Admins can:
 ## Project Structure
 
     atm-system/
+    ├── docs/
+    │   └── OOP Project.pdf
+    ├── demo/
+    │   └── Project Demo.mp4
     ├── bin/
     │   ├── Account.class
     │   ├── Admin.class
@@ -96,6 +100,11 @@ Admins can:
 - `users.txt` - Stores user account information
 - `transactions.txt` - Stores transaction records
 - `reports.txt` - Stores generated reports
+
+## Project Report and Demo
+
+- `docs/OOP Project.pdf` - Full project report explaining the system classes, code structure, and functionality
+- `demo/Project Demo.mp4` - Demo video showing how the ATM system works
 
 ## How to Run the Project
 
