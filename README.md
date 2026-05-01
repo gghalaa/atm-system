@@ -68,7 +68,6 @@ Admins can:
     │   ├── reports.txt
     │   ├── transactions.txt
     │   └── users.txt
-    ├── lib/
     ├── src/
     │   ├── Account.java
     │   ├── Admin.java
@@ -120,7 +119,6 @@ Or run it from Terminal:
 - Text files are used to store users, transactions, and reports.
 - The `src` folder contains the main Java source code.
 - The `bin` folder contains compiled `.class` files.
-- The `lib` folder can be used for external libraries if needed.
 
 ##Authors
 
